@@ -26,7 +26,7 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: var(--pale-blue);
+    background-color: var(--white);
     font-family: var(--font);
 }
 
